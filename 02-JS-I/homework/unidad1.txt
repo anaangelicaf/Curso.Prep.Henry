@@ -1,0 +1,12 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: son cajas donde se guardan datos para luego ser recuperados y pueden cambiar de valor, son utilizados en todos los lenguajes de programación, se le debe colocar un nombre que luego se utilizara en el desarrollo del programa.
+
+Strings: es un tipo de dato conformado por un conjunto de letras o caracteres que se guardan en una variable, pero se le distingue porque el valor va entre comillas.
+
+Funciones (argumentos, ‘return’): las funciones son agrupaciones de códigos que son guardados y luego son invocados para que se ejecuten muchas veces. Al definir una función se le asigna un nombre y los argumentos que son las variables que declaramos dentro de la función.
+La declaración retorno (return) permite que un dato salga o se escape de una función para luego ser usado en alguna parte del programa, al ejecutarse se termina la función.
+
+Declaraciones ‘if’: es un operador de control de flujo y comparación que da como resultado un valor booleano verdadero o falso.
+
+Valores booleanos (‘true’, ‘false’): estos valores están relacionados con la lógica binaria y representan 2 valores que normalmente son el verdadero y falso, es decir, únicamente puede tener 2 estados.
