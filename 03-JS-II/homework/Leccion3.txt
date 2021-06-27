@@ -1,0 +1,6 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+* for: es un bucle que permite repetir muchas veces un bloque de código. El bloque de código se repetirá mientras se cumpla una condición que va a frenar la ejecución del bucle.
+* &&: (AND “Y”) evalúa dos expresiones o dos valores y si ambas son true devuelve true, si alguna es false o ambas son false devuelve falte.
+* ||: (OR “O”) evalúa dos expresiones o valores y si ambas son true o alguna es true devuelve true, sin embargo, devuelve false solo cuando ambas son false.
+* !: (NOT “NO”) evalúa la expresión o el valor y devuelve el valor booleano opuesto. 
+
