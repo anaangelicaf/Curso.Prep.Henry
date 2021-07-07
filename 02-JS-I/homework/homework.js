@@ -35,8 +35,7 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  var x = 5;
-  var y = 5;
+
   return x + y;
 }
 
@@ -73,7 +72,12 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  return str1.length === str2.length;
+  if (str1.length === str2.length){
+    return true;
+  } else {
+    return false;
+  }
+   ;
 }
 
 function menosQueNoventa(num) {
@@ -149,6 +153,7 @@ function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
   return Math.round(num);
+  
 }
 
 function redondearHaciaArriba(num) {
